@@ -1,3 +1,8 @@
+# WHY FORKED
+I forked the project so I can have also have the dirs `log` & `etc` mountable.
+
+
+---
 YADC [![Build Status](https://travis-ci.org/klaemo/docker-couchdb.svg?branch=master)](https://travis-ci.org/klaemo/docker-couchdb)
 ===
 
